@@ -26,7 +26,7 @@
 
 | Название | Ноутбук | Форма для загрузки | Дедлайн |
 | --- | --- | --- | --- |
-| Deep Crossentropy method | [ссылка](homeworks/01-deep-crossentropy.ipynb) | [ссылка](https://forms.gle/FA9wy9C4cn5vDQXP9) | 14 сентября 11:59 |
+| Deep Crossentropy method | [ссылка](homeworks/01-deep-crossentropy.ipynb) | [ссылка](https://forms.gle/FA9wy9C4cn5vDQXP9) | 14 сентября 23:59 |
 
 ## 🧪 Формат финальной работы
 
